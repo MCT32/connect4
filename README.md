@@ -1,0 +1,3 @@
+# Connect 4
+
+Simple game of Connect 4. Local only, no online servers, yet...
